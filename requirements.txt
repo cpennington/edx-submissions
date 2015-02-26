@@ -1,7 +1,7 @@
 dogapi==1.2.1
 django>=1.4
 django-extensions==1.2.5
-django-model-utils==1.4.0
+django-model-utils==2.2
 djangorestframework<2.4
 pytz==2012h
 South==1.0.1
